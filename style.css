@@ -1,0 +1,64 @@
+h1{
+    background-color: rgb(224, 237, 233);
+   border: 3px solid red;
+   text-align: center;
+   border-radius: 30px;
+   color: blue;
+}
+.sss{
+    background-color: yellow;
+    color: black;
+}
+.hayvon{
+    color: red;
+}
+h2{
+    color: green;
+}
+h3{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img{
+    margin: 20px;
+}
+h4{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+h5{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.p{
+    color: rgb(91, 129, 182);
+}
+.iframe{
+   margin: left;
+}
+button{
+    background-color: rgb(70, 90, 243);
+    width: 250px;
+    height: 35px;
+ }
+.qqq{
+    background-color: black;
+}
+.yyy{
+    background-color: green;
+}
+.rrr{
+    background-color: red;
+}
+.kkk{
+    background-color: blue;
+}
+table, th, td{
+    border: 3px solid rgb(100, 133, 234);
+    text-align: center;
+    color: aliceblue;
+    border-collapse: collapse;
+}
